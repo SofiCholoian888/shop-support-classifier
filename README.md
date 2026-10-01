@@ -24,7 +24,7 @@
 Используется датасет с Kaggle:
 [Training Dataset for Chatbots/Virtual Assistants](https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants)
 
-**Входные данные:** текст обращения покупателя, отправленный через форму на сайте или в чате поддержки.
+**Входные данные:** текст обращения покупателя, отправленный в чате поддержки.
 
 ---
 
